@@ -10,7 +10,7 @@
 | **[docs]**      | 문서 (문서 추가, 수정, 삭제) |
 | **[chore]**     | 빌드, 설정 파일              |
 
-ex) [Type] #이슈번호 커밋메세지 `git commit -m '[python] #12 백준 1237'`
+ex) [Type] #이슈번호 커밋메세지 `git commit -m '[python] #12 문제번호 문제이름'`
 
 ## Git Branch
 
